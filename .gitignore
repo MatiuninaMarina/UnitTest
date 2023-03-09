@@ -1,4 +1,5 @@
 *.html
+*.iml
 .idea/
-.target/
-.out/
+target/
+out/
